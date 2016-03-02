@@ -22,5 +22,5 @@ This version is polygon model only.
 
 == Changelog ==
 
-= 1.0 - March 2 2015 =
+= 1.0 - March 2 2016 =
 * Initial release.
