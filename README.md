@@ -1,4 +1,5 @@
-![3D Wapuu](./images/wapuu_render.png)
+![3D Wapuu](./images/wapuu_render_1.png)
+![3D Wapuu](./images/wapuu_render_2.png)
 ![3D Wapuu](./images/wapuu_3d_printer_1.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_2.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_3.jpg)
