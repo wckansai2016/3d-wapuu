@@ -28,9 +28,16 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 
 == Data format ==
 
+For the 3DCG image, the animation
+
 .obj (cross-platform 3d-object format for the 3DCG image, the animation)
 
-.stl (stereolithography CAD data for the 3D Printer)
+.stl (stereolithography CAD data)
+
+
+For the 3D Printer image, the animation
+
+.stl (stereolithography CAD data)
 
 
 == Caution ==
