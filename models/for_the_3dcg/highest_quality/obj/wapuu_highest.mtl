@@ -1,0 +1,55 @@
+newmtl d_wapuu_14:lambert7SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 0.00 0.00 0.00
+Ni 1.00
+newmtl d_wapuu_14:lambert13SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl d_wapuu_14:lambert22SG
+illum 4
+Kd 0.85 0.55 0.03
+Ka 0.35 0.35 0.35
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd wp_logo.png
+Ni 1.00
+newmtl wapuu_2_1:lambert15SG
+illum 4
+Kd 0.00 0.07 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl wapuu_2_1:lambert16SG
+illum 4
+Kd 0.00 0.17 0.32
+Ka 0.24 0.24 0.24
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl wapuu_2_1:lambert23SG
+illum 4
+Kd 0.00 0.07 0.17
+Ka 0.21 0.21 0.21
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl wapuu_2_1:lambert24SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.29 0.29 0.29
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl wapuu_mat_body_ear_tail1SG
+illum 4
+Kd 0.84 0.21 0.02
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+Ni 1.00
