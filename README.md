@@ -36,8 +36,21 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 ## Caution
 Sorry, textures is not assigned.  
 This version is polygon model only.  
-## Changelog  
-### 1.1 - March 2 2016
-* Add STL format for 3DCG.
+
+### I built a 3d wapuu thing by MakerBot Replicator 2.
+### If you want to build the Wapuu body by the same machine, I require to change the setting.
+1.Open Print Settings of MakerBot Software.  
+2.Move to Custom,and set the value over than 0.8mm on the Raft Margin, in the Raft menu.  
+
+### If you want to build the Wapuu tail, I require to change the setting. 
+1.Open Print Settings of MakerBot Software.  
+2.Move to Custom,and set the value over than 50% on the Infill Density, in the Infill menu.  
+  
+## Changelog 
+### 1.0 - March 2 2016  
+* Initial Release.  
+
+### 1.1 - March 2 2016  
+* Add STL format for 3DCG.  
 
 
