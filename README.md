@@ -6,7 +6,7 @@
 ### low, middle, high, highest quality
 ![3D Wapuu](./images/wapuu_wire.png)
 
-## For the 3DC Printer
+## For the 3D Printer
 ![3D Wapuu](./images/wapuu_render_2.png)
 ![3D Wapuu](./images/wapuu_3d_printer_1.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_2.jpg)
