@@ -41,4 +41,4 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 * Add FBX, Shade3D, Collada format for 3DCG.  
 ### 2.1 - June 7 2016
 * Add a three.js demo page.  
-http://wckansai2016.github.io/3d-wapuu/demos/three.js/index.html
+http://wckansai2016.github.io/3d-wapuu/demos/three.js/
