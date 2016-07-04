@@ -44,3 +44,6 @@ https://ja.wordpress.org/about-wp-ja/wapuu/
 http://wckansai2016.github.io/3d-wapuu/demos/three.js/
 ### 2.2 - June 20 2016
 * Add several models for the 3D Printer. 
+### 3.0 - July 4 2016
+* Add Maya Binary files.
+* Add models that before subdivision process.  
