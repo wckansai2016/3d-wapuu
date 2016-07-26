@@ -13,6 +13,8 @@
 ![3D Wapuu](./images/wapuu_3d_printer_1.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_2.jpg)
 ![3D Wapuu](./images/wapuu_3d_printer_3.jpg)
+![3D Wapuu](./images/wapuu_original.jpg)
+![3D Wapuu](./images/wapuu_trophy.jpg)
 
 ## Author, License, Version
 Author : Takeshi Kashihara  
