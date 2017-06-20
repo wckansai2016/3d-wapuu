@@ -1,4 +1,37 @@
+# What is Wapuu?
+‘Wapuu’ is official character of WordPress in Japan.
+He(She?) loved by many WordPress users in not only Japan but also the worldwide.
+
+https://ja.wordpress.org/about-wp-ja/wapuu/
+
+
+## Variation of Wapuu
+The vector data of Wapuu have released by GNU General Public License(GPL).
+You can edit and re-use that freely.
+There are many variations of Wapuu born everywhere around the world.
+
+https://jawordpressorg.github.io/wapuu/
+
+## Wapuu goods
+Many Wapuu goods make by funs.
+Badge,Stiker, Mug cup,T-Shorts,etc...
+Mascot, Stuffed Animal.
+
+You can watch many wapuu goods by search tiwtter #wapuu.
+
+https://twitter.com/search?q=%23wapuu&src=typd
+
 # 3D Wapuu
+So I made a 3D version of Wapuu and released the 3D Data On GitHub.
+Anyone can download that data.
+And that also able to edit shape and reuse.
+
+That was include the data for 3D CG Animation and 3D Printer.
+
+If you have 3D CG Software or CAD Software, you can use that in CG Animaion and CAD.
+And If you have the 3D Printer, you can print out the same Wapuu object.
+
+We can expect make variation of 3D wapuu contents by use this.
 
 ## [Model Preview](./models/for_the_3dcg/mid_quality/stl/wapuu_mid.stl)  
 ## For the 3DCG
